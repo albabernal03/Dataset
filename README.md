@@ -16,5 +16,5 @@ Este es el link del [repositorio](https://github.com/albabernal03/Dataset)
 **Dataset condicion planeta**
 ***
 
-<h3>Link que usaremos para limpiar y rellenar los Datasets:</h3>
+<h2>Link que usaremos para limpiar y rellenar los Datasets:</h2>
 
