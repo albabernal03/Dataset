@@ -6,7 +6,7 @@
 Este es el link del [repositorio](https://github.com/albabernal03/Dataset)
 
 ***
-<h2>Nuestros Datasets</h2>
+<h2>Nuestros Datasets:</h2>
 
 
 **Dataset sobre gravedad en los planetas**
@@ -15,3 +15,5 @@ Este es el link del [repositorio](https://github.com/albabernal03/Dataset)
 ***
 **Dataset condicion planeta**
 ***
+
+<h3>Link que usaremos para limpiar y rellenar los Datasets:</h3>
