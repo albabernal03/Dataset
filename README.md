@@ -9,14 +9,14 @@ Este es el link del [repositorio](https://github.com/albabernal03/Dataset)
 <h2>Nuestros Datasets:</h2>
 
 
-**Dataset sobre gravedad en los planetas**
+**-Dataset sobre gravedad en los planetas**
 [link](https://www.kaggle.com/datasets/jaredsavage/solar-system-major-bodies-data)
 ***
-**Dataset sobre condiciones básicas**
+**-Dataset sobre condiciones básicas**
 
 Este Dataset es sobre la tierra y es el que utilizaremos para comparar con otros planetas para ver si cumple las condiciones básicas para vivir.
 ***
-**Dataset condicion planeta**
+**-Dataset condicion planeta**
 [link](https://www.kaggle.com/datasets/deepcontractor/mars-rover-environmental-monitoring-station)
 
 En este Dataset encontramos datos sobre temperatura, cantidad de sol, presión....
