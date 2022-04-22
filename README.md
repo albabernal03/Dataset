@@ -10,7 +10,7 @@ Este es el link del [repositorio](https://github.com/albabernal03/Dataset)
 
 
 **Dataset sobre gravedad en los planetas**
-https://www.kaggle.com/datasets/jaredsavage/solar-system-major-bodies-data
+[link](https://www.kaggle.com/datasets/jaredsavage/solar-system-major-bodies-data)
 ***
 **Dataset sobre condiciones básicas**
 ***
